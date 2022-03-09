@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1646321020 source:e:\c\pointer_tasks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1646320083 source:e:\c\pointer_tasks\ccc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1646321020 source:e:\c\random_tasks\pointer_tasks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
