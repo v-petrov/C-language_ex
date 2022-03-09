@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1645119651 source:e:\c\tasks\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1646813535 source:e:\c\random_tasks\tasks\main.c
+	<stdio.h>
+	<stdlib.h>
+
