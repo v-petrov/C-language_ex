@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1647967604 source:e:\c\lab_ex\duck_numbers\duck_source.c
+	"duck_header.h"
+
+1647967546 e:\c\lab_ex\duck_numbers\duck_header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1647967586 source:e:\c\lab_ex\duck_numbers\main.c
+	"duck_header.h"
+
