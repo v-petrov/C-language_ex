@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1648732740 source:e:\c\hgfhgf\main.c
+	"header.h"
+
+1648630867 source:e:\c\hgfhgf\source.c
+	"header.h"
+
+1648630774 e:\c\hgfhgf\header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1648630867 source:e:\c\char_array_ex\source.c
+	"header.h"
+
+1648630774 e:\c\char_array_ex\header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
