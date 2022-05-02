@@ -385,5 +385,8 @@ int main()
         puts(buff);
     }
 
+    fclose(fp_b);
+    fclose(fp_t);
+
     return 0;
 }
